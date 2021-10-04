@@ -33,8 +33,7 @@ The recall for high and low risk are in line with each other, but about 10% lowe
 
 ![alt text](https://github.com/rsallaii2u/ml_pathway_challenge1/blob/main/SMOTEEN.PNG)
 
-The precision for high risk is low compared to low risk. This is indicative of a large number of false positives. This is 1% higher than Random Oversampling.
-The recall for high and low risk are in line with each other, but about 10% lower than Random oversampling. The f1 score also dropped.
+Same results as Cluster Centroids Undersampling
 
 - Balanced Random Forest Classifier Ensemble
 
