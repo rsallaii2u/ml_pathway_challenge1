@@ -54,6 +54,6 @@ The recall for high and low risk are in line with each other and about 9% higher
 
 The ensemble models outperformed the resampling techniques.
 
-A good model to predict credit risk needs to consider the cost benefit of making more/less false positives/negatives.
+A good model to predict credit risk needs to consider the cost benefit of making more false positives than negatives.
 
-If making more false positives then negatives is better one should choose the Easy Ensemble AdaBoost Classifier Ensemble model. Otherwise, the Balanced Random Forest Classifier Ensemble would be a better choice.
+If making more false positives than negatives is better one should choose the Easy Ensemble AdaBoost Classifier Ensemble model. Otherwise, the Balanced Random Forest Classifier Ensemble would be a better choice.
